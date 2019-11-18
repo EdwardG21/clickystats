@@ -12,7 +12,7 @@ namespace Block;
  * @package clickystats
  * @version 1.0
  * @author  Edward Gao <edward.gao21@gmail.com>
- * @link    http://www.schlix.com
+ * @link    https://github.com/EdwardG21
  */
 class ClickyStats extends \SCHLIX\cmsBlock
 {

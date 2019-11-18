@@ -13,7 +13,7 @@
  * @package clickystats
  * @version 1.0
  * @author  Edward Gao <edward.gao21@gmail.com>
- * @link    http://www.schlix.com
+ * @link    https://github.com/EdwardG21
  */
 if (!defined('SCHLIX_VERSION'))
     die('No Access');
