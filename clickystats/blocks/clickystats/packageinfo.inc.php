@@ -9,4 +9,4 @@ $description = 'Clicky stats to monitor, analyze, and react to their traffic in 
 $author = 'Edward Gao';
 $url = 'https://github.com/EdwardG21';
 $email = 'edward.gao21@gmail.com';
-$copyright = 'Copyright &copy;Edward Gao';
+$copyright = 'Copyright &copy;2016 SCHLIX Web Inc';
