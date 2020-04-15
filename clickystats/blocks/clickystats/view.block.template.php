@@ -17,7 +17,7 @@ if (!defined('SCHLIX_VERSION'))
     die('No Access');
 ?>
 <?php if ($clicky_tracking_number): ?>
-    Edward<?= ___h($clicky_tracking_number) ?>
+    <?= ___h($clicky_tracking_number) ?>
     <?php if ($affiliate_badge): ?>
         <a title="Real Time Web Analytics" href="http://clicky.com/<?= ___h($clicky_tracking_number) ?>"><img src="//static.getclicky.com/media/links/badge.gif" border="0" /></a>
     <?php endif ?>
